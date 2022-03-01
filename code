@@ -1,0 +1,11 @@
+#include <math.h>
+#include <stdio.h>
+
+int main( void)
+{
+   int x;
+   float y;
+   scanf("%d", x);
+   y = sin( x );
+   printf( "%f\n" y );
+}
