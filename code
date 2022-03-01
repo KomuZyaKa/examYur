@@ -7,5 +7,6 @@ int main( void)
    float y;
    scanf("%d", x);
    y = sin( x );
+   y=y/2;
    printf( "%f\n" y );
 }
